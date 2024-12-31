@@ -7,7 +7,7 @@ My solution for the [number-guessing-game](https://roadmap.sh/projects/number-gu
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/number-guessing-game.git
+git clone https://github.com/(yourusername)/number-guessing-game.git
 ```
 ## How to Run:
 ```bash

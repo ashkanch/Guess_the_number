@@ -11,6 +11,6 @@ git clone https://github.com/(yourusername)/Guess_the_number.git
 ```
 ## How to Run:
 ```bash
-cd number-guessing-game
+cd Guess_the_number
 py Guess_the_number.py
 ```
